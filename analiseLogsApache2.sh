@@ -7,12 +7,12 @@ banner()
 	echo "2. Analisar ataques de SQL Injection."
 	echo "3. Analisar ataques de Directory Traversal."
 	echo "4. Analisar User-Agents suspeitos."
-	echo "5. Analisar User-Agents suspeitos."
-	echo "6. Analisar User-Agents suspeitos."
-	echo "7. Analisar User-Agents suspeitos."
-	echo "8. Analisar User-Agents suspeitos."
-	echo "9. Analisar User-Agents suspeitos."
-	echo "10. Analisar User-Agents suspeitos."
+	echo "5. Analisar tentativas de acesso a arquivos sensíveis."
+	echo "6. Analisar possíveis ataques de força bruta"
+	echo "7. Analisar primeiro e último acesso de IP suspeito."
+	echo "8. Analisar User-Agent utilizado por um IP suspeito."
+	echo "9. Listar IPs e verificar número de requisições."
+	echo "10. Localizar acesso a um determinado arquivo sensível."
 }
 
 banner
